@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+section {
+    background: black;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    text-align: center;
+    transform: translate(-50%, -50%); 
+}
+
+IMG.icons{
+    flex: 33.33%;
+    width:30px;
+    padding: 5px;
+    /* left: 50%; */
+}
+
+.row{
+    /* display: flex; */
+    text-align: center;
+}
