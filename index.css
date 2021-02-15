@@ -2,6 +2,8 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
+/* centering found here: https://www.w3.org/Style/Examples/007/center.en.html */
+
 section {
     background: black;
     color: white;
